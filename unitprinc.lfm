@@ -1,0 +1,45 @@
+object FormPrinc: TFormPrinc
+  Left = 238
+  Height = 240
+  Top = 141
+  Width = 320
+  Caption = 'FormPrinc'
+  OnShow = FormShow
+  LCLVersion = '1.6.0.4'
+  object Process: TProcess
+    Active = False
+    Options = []
+    Priority = ppNormal
+    StartupOptions = []
+    ShowWindow = swoNone
+    WindowColumns = 0
+    WindowHeight = 0
+    WindowLeft = 0
+    WindowRows = 0
+    WindowTop = 0
+    WindowWidth = 0
+    FillAttribute = 0
+    left = 112
+    top = 40
+  end
+  object TimerProcess: TTimer
+    Enabled = False
+    Interval = 100
+    OnTimer = TimerProcessTimer
+    left = 176
+    top = 40
+  end
+  object LTCPComponent: TLTCPComponent
+    Port = 0
+    OnReceive = LTCPComponentReceive
+    Timeout = 0
+    ReuseAddress = False
+    left = 40
+    top = 40
+  end
+  object TimerTentaConectar: TTimer
+    OnTimer = TimerTentaConectarTimer
+    left = 248
+    top = 40
+  end
+end

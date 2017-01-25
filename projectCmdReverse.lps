@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="projectCmdReverse.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unitprinc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPrinc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UnitPrinc"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="59"/>
+        <CursorPos X="53" Y="49"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\lnet\examples\console\ltcp\lclient.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="3" Y="41"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\lnet\lib\lnet.pp"/>
+        <UnitName Value="lNet"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="855"/>
+        <CursorPos Y="864"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="63" Column="57" TopLine="52"/>
+      </Position1>
+      <Position2>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="62" Column="57" TopLine="51"/>
+      </Position2>
+      <Position3>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="68" Column="3" TopLine="53"/>
+      </Position3>
+      <Position4>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="70" Column="15" TopLine="56"/>
+      </Position4>
+      <Position5>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="72" Column="15" TopLine="58"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="87" Column="39" TopLine="69"/>
+      </Position6>
+      <Position7>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="52" Column="46" TopLine="44"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="78" Column="30" TopLine="68"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="89" Column="57" TopLine="88"/>
+      </Position9>
+      <Position10>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="93" Column="38" TopLine="83"/>
+      </Position10>
+      <Position11>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="91" Column="39" TopLine="89"/>
+      </Position11>
+      <Position12>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="100" Column="20" TopLine="83"/>
+      </Position12>
+      <Position13>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="51" Column="82" TopLine="51"/>
+      </Position13>
+      <Position14>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="50" Column="82" TopLine="50"/>
+      </Position14>
+      <Position15>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="111" Column="82" TopLine="61"/>
+      </Position15>
+      <Position16>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="113" Column="6" TopLine="70"/>
+      </Position16>
+      <Position17>
+        <Filename Value="unitprinc.pas"/>
+        <Caret Line="9" Column="43" TopLine="9"/>
+      </Position17>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
